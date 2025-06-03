@@ -108,7 +108,12 @@ h2 {
 }
 
 .name {
+  padding-top: 20px;
+  margin: 0;
   font-family: 'Roboto', Arial, sans-serif; /* 'Roboto'로 변경 */
+  font-size: 32px;
+  text-align: center;
+  color: #000; /* 검은색 텍스트 */
 }
 
 .one {
